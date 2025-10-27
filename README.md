@@ -131,16 +131,6 @@ I’m a data enthusiast with **3+ years** building **end-to-end BI** systems, mo
 
 ---
 
-### 📊 Fun widgets
-<p align="center">
-  <!-- Replace with your username -->
-  <img src="https://github-readme-stats.vercel.app/api?username=schekka123&show_icons=true&rank_icon=github&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=schekka123&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=schekka123&layout=compact&hide_border=true" height="150" />
-</p>
-
----
-
 ### 🌱 Outside of Work (fun stuff)
 - 🧗 **Bouldering** on V4–V5 problems; training grip strength like a data pipeline—incremental and reliable.  
 - 📷 **Astro-photography** weekend trips; long exposures and even longer coffee.  
