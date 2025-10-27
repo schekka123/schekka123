@@ -1,7 +1,3 @@
-<!--
-⚠️ Replace YOUR-GITHUB-USERNAME everywhere with your GitHub handle.
--->
-
 <!-- Animated Header -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1200&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Saiabhinav+Chekka+%F0%9F%91%8B;Data+Analytics+Engineer+%7C+Data+Engineer+%7C+BI+Engineer;Turning+Raw+Data+Into+Insight%2C+Impact%2C+and+Innovation" alt="Typing SVG" />
@@ -19,7 +15,7 @@
     <img alt="AWS Certified Data Engineer" src="https://img.shields.io/badge/AWS%20Certified-Data%20Engineer-ff9900?logo=amazonaws&logoColor=white">
   </a>
   <img alt="Location" src="https://img.shields.io/badge/USA-United%20States-2e7d32?logo=google-maps&logoColor=white">
-  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&style=flat&color=grey">
+  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=schekka123&style=flat&color=grey">
 </p>
 
 ---
@@ -29,6 +25,22 @@ I’m a **Data Analytics Engineer** who loves turning **complex data ecosystems*
 
 **Focused Roles:** Data Engineer · Data Analytics Engineer · BI Engineer  
 **Passion Areas:** Data Modeling · ETL/ELT Automation · Cloud Data Architecture · Business Insights  
+
+---
+
+### 🧠 AI Focus & Certification Roadmap
+<p>
+  <img src="https://img.shields.io/badge/Agentic%20AI-Exploration-3a3a3a" />
+  <img src="https://img.shields.io/badge/RAG-Pipelines-3a3a3a" />
+  <img src="https://img.shields.io/badge/LLMs-Chatbots-3a3a3a" />
+  <img src="https://img.shields.io/badge/Azure%20AI%20Engineer-In%20Progress-0078D4?logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20Generative%20AI%20Developer-Planned-ff9900?logo=amazonaws&logoColor=white" />
+</p>
+
+- 📌 **Learning:** *AI Engineering, Agentic AI, RAG architectures, LLM apps, chatbot design & evaluation*  
+- 🧪 **Building:** small LLM/RAG proof-of-concepts (retrievers, prompt flows, vector stores) and chatbot prototypes  
+- 🎯 **Exam target:** **Azure AI Engineer Associate** around **Nov 9, 2025**  
+- 🔜 **Next up:** **AWS Certified Generative AI – Developer (Latest)** to deepen end-to-end GenAI system design
 
 ---
 
@@ -133,7 +145,7 @@ I’m a **Data Analytics Engineer** who loves turning **complex data ecosystems*
 
 ### 🌱 Outside Work
 - 📈 **Analyzing Stock Markets**  
-- 🃏 **Poker, Bowling, Top Golf**  
+- 🃏 **Poker**  
 - 🚗 **Driving**  
 - 👨‍👩‍👧 **Spending Time with Family & Friends**
 
