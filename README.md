@@ -137,9 +137,25 @@ I’m a **Data Analytics Engineer** who loves turning **complex data ecosystems*
 ---
 
 ### 🧭 Principles
-- First make it **correct**, then **fast**, then **beautiful**.  
-- Data **quality**, **observability**, and **scalability** are non-negotiable.  
-- Build for **reliability**; optimize for **insight**, not just ingestion.
+
+- **Start from the user’s pain, then work backward**  
+  Before building a pipeline, I interview stakeholders to learn decisions they need *tomorrow morning*. For a partner-ops dashboard, this led me to model only the 12 KPIs that actually changed quarterly targets—everything else went into a backlog.
+
+- **Debate hard, decide fast—and then commit**  
+  I’ll challenge shaky KPI definitions in design reviews (e.g., qualifying “active partner” windows). Once we lock the rule, I document it in the semantic layer and defend it consistently, even if my original preference differed.
+
+- **Act like the owner of the whole system**  
+  If a nightly job fails at 3 AM, I don’t wait for “the data team.” I page the run, hotfix the SQL, open a PR with tests, and post a root-cause note so it doesn’t recur—because missed refresh ≙ missed revenue meeting.
+
+- **Curiosity as a habit—prototype to learn**  
+  When latency spiked on a report, I tried a quick Databricks notebook with Z-ordering and incremental loads. The spike dropped in minutes, and the experiment became the new standard for similar tables.
+
+- **Aim for step-changes, not tweaks**  
+  Instead of shaving seconds off a slow query, I redesigned the model into a star schema and cut refresh time from hours to minutes—freeing teams to ask better questions, not just wait less.
+
+- **Move on 70% of the data, instrument the rest**  
+  I’ll ship the first version of an ingestion job with quality checks, lineage, and alerts. Perfect can come later; the guardrails ensure we learn quickly without breaking trust.
+
 
 ---
 
