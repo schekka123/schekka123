@@ -75,7 +75,7 @@ I’m a data enthusiast with **3+ years** building **end-to-end BI** systems, mo
 ### 🗺️ Target Roles & How I Add Value
 - **Data Analytics Engineer** – Design dimensional models, enforce KPI definitions, and deliver blazing-fast dashboards.
 - **Data Engineer** – Build robust batch/stream pipelines with SLAs, testing, lineage, and cost guardrails.
-- **BI Engineer** – Translate stakeholder goals into intuitive visuals and self-serve semantic layers.
+- **Business Intelligence Engineer** – Translate stakeholder goals into intuitive visuals and self-serve semantic layers.
 
 > **Playbook:** discover → model → validate → instrument → automate → observe → iterate.
 
