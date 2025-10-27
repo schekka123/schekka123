@@ -133,18 +133,9 @@ I’m a **Data Analytics Engineer** who loves turning **complex data ecosystems*
 
 ### 🌱 Outside Work
 - 📈 **Analyzing Stock Markets**  
-- 🃏 **Poker**  
+- 🃏 **Poker, Bowling, Top Golf**  
 - 🚗 **Driving**  
 - 👨‍👩‍👧 **Spending Time with Family & Friends**
-
----
-
-### 📊 GitHub Stats (Dark Mode)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
 
 ---
 
