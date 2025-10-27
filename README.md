@@ -160,10 +160,11 @@ I’m a **Data Analytics Engineer** who loves turning **complex data ecosystems*
 ---
 
 ### 🌱 Outside Work
-- 📈 **Analyzing Stock Markets**  
-- 🃏 **Poker**  
-- 🚗 **Driving**  
 - 👨‍👩‍👧 **Spending Time with Family & Friends**
+- 📈 **Analyzing Stock Markets**
+- 🚗 **Driving and Cooking**  
+- 🃏 **Poker, Bowling, Top Golf**  
+
 
 ---
 
