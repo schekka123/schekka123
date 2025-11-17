@@ -44,34 +44,30 @@ I’m a **Data Analytics Engineer** who loves turning **complex data ecosystems*
 
 ---
 
-💼 Professional Experience
+### 💼 Professional Experience
 
-Data Analytics Engineer — SAP (Nov ’24 – Present)
+#### **Data Analytics Engineer — SAP** *(Nov ’24 – Present)*
+- ⚙️ Built **Python ETL** pipelines to unify **10+ sources** (Salesforce, SAP) into a **10TB Redshift** data platform for **500+ users**.
+- 🗺️ Led **$15M** market strategy with **Tableau** geo-spatial dashboards, pinpointing **3 high-ROI** territories.
+- 📈 Optimized **$25M** budget with **Python (time-series)** forecast (**97% accuracy**), boosting marketing efficiency **30%**.
+- 📊 Built **Tableau + SQL** report to correct **30% KPI drop**, restoring accurate deal size for **$5M** quarterly plan.
+- 🔬 Led **R** analysis on 5 years of deal data, finding **top 5 sales drivers**; new playbook increased win rates **10%**.
 
-⚙️ Architected a centralized GTM data platform by building automated Python ETL pipelines to consolidate 10+ disparate sources (Salesforce, SAP, Finance) into a 10TB Redshift warehouse, powering real-time analytics for 500+ users.
-🗺️ Spearheaded a $15M new market strategy by developing interactive geo-spatial dashboards in Tableau that modeled customer segmentation, pinpointing 3 high-ROI white-space territories.
-📈 Optimized a $25M budget by building a Python (time-series) forecasting model (97% accuracy), which boosted GTM marketing spend efficiency by 30%.
-📊 Developed a self-serve Tableau report using SQL queries to correct a 30% KPI drop, restoring the accurate average deal size to guide a $5M quarterly plan.
-🔬 Led a deep-dive statistical analysis in R on 5 years of GTM deal history; identified the top 5 drivers of high-value sales, forming the basis for a new playbook that increased enterprise win rates by 10%.
+#### **Data Engineer — DTCC** *(May ’24 – Oct ’24)*
+- 🧊 Built **Python + Airflow** ETLs to migrate Oracle → **Snowflake**, cutting processing to **1 hour** & saving **$500K** annually.
+- 🛡️ Launched **Power BI** on **Snowflake** dashboard for **5 key risk metrics**, cutting incident response time **80%**.
+- ⚠️ Built **SAS** time-series model on clearing data, identifying **$10M** in high-risk anomalous transactions.
 
-Data Engineer — DTCC (May ’24 – Oct ’24)
+#### **Data Analyst — Indiana University Bloomington** *(Jan ’23 – Apr ’24)*
+- 🔮 Built **Python (scikit-learn)** ML model (**94% accuracy**) to predict readmissions, lowering rate by **15%**.
+- 🏥 Engineered **NoSQL (MongoDB)** pipeline for **20M+** unstructured clinical notes; accelerated research queries **400%**.
+- 👥 Segmented **5M patient EHRs** using **Python (k-means)**, identifying **5 risk profiles**; improved care adherence **25%**.
 
-🧊 Orchestrated data modeling and built Python + Airflow ETL pipelines to migrate critical settlement data from Oracle to Snowflake, reducing nightly processing to 1 hour and saving $500K in annual licensing.
-🛡️ Launched a real-time, self-service Power BI dashboard on Snowflake for 5 key risk metrics, decreasing critical incident response time by 80%.
-⚠️ Built a SAS statistical time-series model to conduct deep dives on real-time clearing data, identifying $10M in high-risk anomalous transactions within the first quarter.
-
-Data Analyst — Indiana University Bloomington (Jan ’23 – Apr ’24)
-
-🔮 Developed a Python (scikit-learn) ML classification model (94% accuracy) to predict 30-day hospital readmissions, lowering the readmission rate by 15%.
-🏥 Engineered a NoSQL (MongoDB) data pipeline and schema to ingest 20M+ unstructured real-time patient clinical notes, accelerating critical research query speeds by 400%.
-👥 Segmented a 5M patient EHR database using Data Mining (k-means clustering) in Python to identify 5 distinct risk profiles, enhancing care plan adherence by 25%.
-
-Business Intelligence Analyst — Tata Consultancy Services (TCS) (Nov ’20 – Jul ’22)
-
-🧪 Delivered a Python + SQL A/B testing framework to compare logistics partners; insights drove a $5M contract decision and cut delivery times by 1.5 days.
-⚡ Revamped a legacy supply chain report using advanced SQL (window functions, CTEs, joins) to optimize a large stored procedure, saving 4 hours of daily processing time.
-☁️ Constructed a real-time AWS freight-tracking pipeline (EC2, DynamoDB) processing 50M+ daily IoT sensor events, advancing delivery time estimates by 90%.
-📦 Deployed a self-service Amazon Quicksight dashboard suite on S3 for real-time inventory tracking, preventing $3M in lost revenue from stock-outs.
+#### **Business Intelligence Analyst — Tata Consultancy Services (TCS)** *(Nov ’20 – Jul ’22)*
+- 🧪 Built **Python + SQL A/B testing** framework; insights drove **$5M** contract & cut delivery times **1.5 days**.
+- ⚡ Revamped legacy report with **advanced SQL** (window functions, CTEs), optimizing stored procedure & saving **4 hrs/day**.
+- ☁️ Built **AWS** pipeline (**EC2, DynamoDB**) processing **50M+** daily IoT events; advanced delivery estimates **90%**.
+- 📦 Deployed **Amazon Quicksight** on **S3** for real-time inventory tracking, preventing **$3M** in lost revenue.
 
 ---
 
