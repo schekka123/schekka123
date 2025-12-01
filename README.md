@@ -33,13 +33,13 @@ I’m a **Data Analytics Engineer** who loves turning **complex data ecosystems*
   <img src="https://img.shields.io/badge/Agentic%20AI-Exploration-3a3a3a" />
   <img src="https://img.shields.io/badge/RAG-Pipelines-3a3a3a" />
   <img src="https://img.shields.io/badge/LLMs-Chatbots-3a3a3a" />
-  <img src="https://img.shields.io/badge/Azure%20AI%20Engineer-In%20Progress-0078D4?logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20AI%20Engineer-Done-0078D4?logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS%20Generative%20AI%20Developer-Planned-ff9900?logo=amazonaws&logoColor=white" />
 </p>
 
 - 📌 **Learning:** *AI Engineering, Agentic AI, RAG architectures, LLM apps, chatbot design & evaluation*  
 - 🧪 **Building:** small LLM/RAG proof-of-concepts (retrievers, prompt flows, vector stores) and chatbot prototypes  
-- 🎯 **Exam target:** **Azure AI Engineer Certified Associate** around **Nov 30, 2025**  
+- 🎯 **Done:** **Azure AI Engineer Certified Associate** around **Nov 30, 2025**  
 - 🔜 **Next up:** **AWS Certified Generative AI – Developer (Latest)** to deepen end-to-end GenAI system design
 
 ---
