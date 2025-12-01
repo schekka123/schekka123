@@ -39,7 +39,7 @@ I’m a **Data Analytics Engineer** who loves turning **complex data ecosystems*
 
 - 📌 **Learning:** *AI Engineering, Agentic AI, RAG architectures, LLM apps, chatbot design & evaluation*  
 - 🧪 **Building:** small LLM/RAG proof-of-concepts (retrievers, prompt flows, vector stores) and chatbot prototypes  
-- 🎯 **Exam target:** **Azure AI Engineer Associate** around **Nov 9, 2025**  
+- 🎯 **Exam target:** **Azure AI Engineer Certified Associate** around **Nov 30, 2025**  
 - 🔜 **Next up:** **AWS Certified Generative AI – Developer (Latest)** to deepen end-to-end GenAI system design
 
 ---
