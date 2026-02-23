@@ -5,8 +5,8 @@
 
 <!-- Social + Badges -->
 <p align="center">
-  <a href="mailto:saiabhinaventerprises@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-saiabhinaventerprises%40gmail.com-1a73e8?logo=gmail&logoColor=white">
+  <a href="mailto:saiabhinavc1999@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-saiabhinavc1999%40gmail.com-1a73e8?logo=gmail&logoColor=white">
   </a>
 
   <a href="https://www.linkedin.com/in/saiabhinav-chekka-938796326/">
