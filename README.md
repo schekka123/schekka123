@@ -8,18 +8,37 @@
   <a href="mailto:saiabhinaventerprises@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-saiabhinaventerprises%40gmail.com-1a73e8?logo=gmail&logoColor=white">
   </a>
+
   <a href="https://www.linkedin.com/in/saiabhinav-chekka-938796326/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Saiabhinav%20Chekka-0a66c2?logo=linkedin&logoColor=white">
   </a>
+
+  <!-- AWS Data Engineer -->
   <a href="https://www.credly.com/badges/f0e37018-865f-4ea2-b124-8294f152e0b5/public_url">
-    <img alt="AWS Certified Data Engineer" src="https://img.shields.io/badge/AWS%20Certified-Data%20Engineer-ff9900?logo=amazonaws&logoColor=white">
+    <img alt="AWS Certified Data Engineer" 
+         src="https://img.shields.io/badge/AWS%20Certified-Data%20Engineer-ff9900?logo=amazonaws&logoColor=white">
   </a>
-<a href="https://www.credly.com/badges/b93f2e11-44f8-4295-8a32-5ed2aa7ecf6a/public_url">
-  <img alt="AWS Certified GenAI Developer" 
-       src="https://img.shields.io/badge/AWS%20Certified-GenAI%20Developer-ff9900?logo=amazonaws&logoColor=white">
-</a>                                           
+
+  <!-- AWS GenAI Developer -->
+  <a href="https://www.credly.com/badges/b93f2e11-44f8-4295-8a32-5ed2aa7ecf6a/public_url">
+    <img alt="AWS Certified GenAI Developer" 
+         src="https://img.shields.io/badge/AWS%20Certified-GenAI%20Developer-ff9900?logo=amazonaws&logoColor=white">
   </a>
+
+  <!-- Azure AI Engineer -->
+  <a href="https://learn.microsoft.com/api/credentials/share/en-gb/ChekkaSaiabhinav-7313/8FF4E5CB6B2425AE?sharingId=9E1C5479AFD9C1DF">
+    <img alt="Microsoft Certified Azure AI Engineer" 
+         src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20AI%20Engineer-0078D4?logo=microsoftazure&logoColor=white">
+  </a>
+
+  <!-- Google Professional Data Engineer -->
+  <a href="https://www.credly.com/badges/79b2629a-d7b3-46bb-9cb4-dca4c1a8e9f8/public_url">
+    <img alt="Google Professional Data Engineer" 
+         src="https://img.shields.io/badge/Google%20Cloud-Professional%20Data%20Engineer-4285F4?logo=googlecloud&logoColor=white">
+  </a>
+
   <img alt="Location" src="https://img.shields.io/badge/USA-United%20States-2e7d32?logo=google-maps&logoColor=white">
+
   <img alt="Visitors" src="https://komarev.com/ghpvc/?username=schekka123&style=flat&color=grey">
 </p>
 
