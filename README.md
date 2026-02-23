@@ -14,7 +14,7 @@
   <a href="https://www.credly.com/badges/f0e37018-865f-4ea2-b124-8294f152e0b5/public_url">
     <img alt="AWS Certified Data Engineer" src="https://img.shields.io/badge/AWS%20Certified-Data%20Engineer-ff9900?logo=amazonaws&logoColor=white">
   </a>
-    <a href="[https://www.credly.com/badges/f0e37018-865f-4ea2-b124-8294f152e0b5/public_url](https://www.credly.com/badges/b93f2e11-44f8-4295-8a32-5ed2aa7ecf6a/public_url)">
+    <a href="https://www.credly.com/badges/b93f2e11-44f8-4295-8a32-5ed2aa7ecf6a/public_url">
     <img alt="AWS Certified GenAI Developer" src="https://img.shields.io/badge/AWS%20Certified-Data%20Engineer-ff9900?logo=amazonaws&logoColor=white">                                                
   </a>
   <img alt="Location" src="https://img.shields.io/badge/USA-United%20States-2e7d32?logo=google-maps&logoColor=white">
