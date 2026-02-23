@@ -198,8 +198,7 @@ I’m a **Data Analytics Engineer** who loves turning **complex data ecosystems*
 ---
 
 ### 💬 Connect
-📧 [saiabhinaventerprises@gmail.com](mailto:saiabhinaventerprises@gmail.com) ·  
+📧 [saiabhinavc1999@gmail.com](mailto:saiabhinaventerprises@gmail.com) ·  
 💼 [LinkedIn – Saiabhinav Chekka](https://www.linkedin.com/in/saiabhinav-chekka-938796326/) ·  
-☁️ [AWS Certification](https://www.credly.com/badges/f0e37018-865f-4ea2-b124-8294f152e0b5/public_url)
 
 > ⭐ Thanks for visiting! Let’s connect, collaborate, and make data smarter.
