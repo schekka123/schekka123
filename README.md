@@ -54,17 +54,22 @@ I’m a **Data Analytics Engineer** who loves turning **complex data ecosystems*
 
 ### 🧠 AI Focus & Certification Roadmap
 <p>
+  <!-- AI Focus Areas -->
   <img src="https://img.shields.io/badge/Agentic%20AI-Exploration-3a3a3a" />
   <img src="https://img.shields.io/badge/RAG-Pipelines-3a3a3a" />
   <img src="https://img.shields.io/badge/LLMs-Chatbots-3a3a3a" />
-  <img src="https://img.shields.io/badge/Azure%20AI%20Engineer-Done-0078D4?logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20Generative%20AI%20Developer-Planned-ff9900?logo=amazonaws&logoColor=white" />
+
+  <!-- Completed Certifications -->
+  <img src="https://img.shields.io/badge/Azure%20AI%20Engineer-Certified-0078D4?logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20GenAI%20Developer-Certified-ff9900?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20Data%20Engineer-Certified-ff9900?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Professional%20Data%20Engineer-Certified-4285F4?logo=googlecloud&logoColor=white" />
 </p>
 
-- 📌 **Learning:** *AI Engineering, Agentic AI, RAG architectures, LLM apps, chatbot design & evaluation*  
-- 🧪 **Building:** small LLM/RAG proof-of-concepts (retrievers, prompt flows, vector stores) and chatbot prototypes  
-- 🎯 **Done:** **Azure AI Engineer Certified Associate** around **Nov 30, 2025**  
-- 🔜 **Next up:** **AWS Certified Generative AI – Developer (Latest)** to deepen end-to-end GenAI system design
+- 📌 **Learning:** AI Engineering, Agentic AI systems, advanced RAG architectures, LLM application design, evaluation & observability  
+- 🧪 **Building:** LLM + RAG proof-of-concepts (retrievers, embeddings, vector stores, prompt orchestration) and production-style chatbot prototypes  
+- 🎯 **Certified:** Azure AI Engineer • AWS Generative AI Developer • AWS Data Engineer • Google Professional Data Engineer  
+- 🔜 **Next Focus:** Advanced multi-agent systems, GenAI system architecture at scale, and production-grade evaluation pipelines
 
 ---
 
