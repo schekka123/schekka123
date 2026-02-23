@@ -45,10 +45,33 @@
 ---
 
 ### 🚀 About Me
-I’m a **Data Analytics Engineer** who loves turning **complex data ecosystems** into **automated, reliable, and beautiful solutions** that empower decision-making. I combine deep expertise in **data engineering, analytics, and visualization** with a business-first mindset.
 
-**Focused Roles:** Data Engineer · Data Analytics Engineer · BI Engineer  
-**Passion Areas:** Data Modeling · ETL/ELT Automation · Cloud Data Architecture · Business Insights  
+<p>
+I’m a <strong>Data Analytics Engineer</strong> who builds scalable data systems that turn messy, fragmented information into trusted, decision-ready intelligence. I specialize in designing modern data architectures, automating pipelines, and translating complex datasets into measurable business impact.
+</p>
+
+<p>
+My work sits at the intersection of <strong>data engineering, analytics, and business strategy</strong> — from architecting lakehouse pipelines processing hundreds of millions of records to delivering executive dashboards that influence multi-million-dollar decisions.
+</p>
+
+<p>
+I focus on building systems that are:
+</p>
+
+<ul>
+  <li>⚙️ <strong>Scalable</strong> — Cloud-native pipelines (AWS, Azure, Databricks, Snowflake) designed for growth.</li>
+  <li>📊 <strong>Decision-Driven</strong> — Analytics aligned directly to revenue, risk, and operational KPIs.</li>
+  <li>🔍 <strong>Reliable</strong> — Data quality, validation, and governance baked into every workflow.</li>
+  <li>🚀 <strong>Impact-Oriented</strong> — Built to reduce friction, accelerate insights, and enable faster execution.</li>
+</ul>
+
+<p>
+<strong>Core Focus:</strong> Data Engineering · Analytics Engineering · BI Strategy · Cloud Data Architecture · AI-Enabled Systems
+</p>
+
+<p>
+Currently expanding into <strong>Agentic AI, RAG architectures, and production-grade LLM systems</strong> — integrating intelligent workflows into modern data platforms.
+</p>
 
 ---
 
@@ -75,28 +98,41 @@ I’m a **Data Analytics Engineer** who loves turning **complex data ecosystems*
 
 ### 💼 Professional Experience
 
-#### **Data Analytics Engineer — SAP** *(Nov ’24 – Present)*
-- ⚙️ Built **Python ETL** pipelines to unify **10+ sources** (Salesforce, SAP) into a **10TB Redshift** data platform for **500+ users**.
-- 🗺️ Led **$15M** market strategy with **Tableau** geo-spatial dashboards, pinpointing **3 high-ROI** territories.
-- 📈 Optimized **$25M** budget with **Python (time-series)** forecast (**97% accuracy**), boosting marketing efficiency **30%**.
-- 📊 Built **Tableau + SQL** report to correct **30% KPI drop**, restoring accurate deal size for **$5M** quarterly plan.
-- 🔬 Led **R** analysis on 5 years of deal data, finding **top 5 sales drivers**; new playbook increased win rates **10%**.
+#### <strong>Data Analytics Engineer — SAP</strong> <em>(Nov ’24 – Present)</em>
+<ul>
+  <li>🚀 Transformed executive decision-making by engineering advanced <strong>SQL data models</strong> that reduced GTM pipeline analysis time from hours to <strong>&lt;10 minutes</strong> for leadership reviews.</li>
+  <li>📊 Designed and deployed <strong>18 production-grade Tableau analytics products</strong>, enabling global teams to self-serve insights and drive region-level revenue strategy.</li>
+  <li>📈 Increased quarterly revenue forecast accuracy by <strong>15%</strong> through deep <strong>SAS-driven anomaly detection & feature engineering</strong> on complex sales datasets.</li>
+  <li>🔄 Automated mission-critical transformations using <strong>dBT</strong>, delivering trusted, decision-ready analytics that influenced <strong>$50M+ in quarterly pipeline strategy</strong>.</li>
+  <li>☁️ Built scalable <strong>Python + Spark ETL pipelines</strong> processing <strong>400M+ records daily</strong>, orchestrated via Airflow into Databricks lakehouses with resilient 3-hour SLA refresh cycles.</li>
+</ul>
 
-#### **Data Engineer — DTCC** *(May ’24 – Oct ’24)*
-- 🧊 Built **Python + Airflow** ETLs to migrate Oracle → **Snowflake**, cutting processing to **1 hour** & saving **$500K** annually.
-- 🛡️ Launched **Power BI** on **Snowflake** dashboard for **5 key risk metrics**, cutting incident response time **80%**.
-- ⚠️ Built **SAS** time-series model on clearing data, identifying **$10M** in high-risk anomalous transactions.
+---
 
-#### **Data Analyst — Indiana University Bloomington** *(Jan ’23 – Apr ’24)*
-- 🔮 Built **Python (scikit-learn)** ML model (**94% accuracy**) to predict readmissions, lowering rate by **15%**.
-- 🏥 Engineered **NoSQL (MongoDB)** pipeline for **20M+** unstructured clinical notes; accelerated research queries **400%**.
-- 👥 Segmented **5M patient EHRs** using **Python (k-means)**, identifying **5 risk profiles**; improved care adherence **25%**.
+#### <strong>Data Engineer — DTCC</strong> <em>(May ’24 – Oct ’24)</em>
+<ul>
+  <li>⚡ Accelerated regulatory compliance reporting by <strong>60%</strong> by leading Oracle → Snowflake migration, automating ingestion of <strong>20TB+ financial transaction data</strong>.</li>
+  <li>📊 Strengthened enterprise financial planning by improving forecasting accuracy <strong>15%</strong> using <strong>SARIMAX & Prophet</strong> models deployed on AWS EC2.</li>
+  <li>🛡️ Prevented portfolio risk exposure and recovered <strong>$250K+ annually</strong> by deploying <strong>Isolation Forest anomaly detection</strong> on high-volume AWS S3 transaction logs.</li>
+</ul>
 
-#### **Business Intelligence Analyst — Tata Consultancy Services (TCS)** *(Nov ’20 – Jul ’22)*
-- 🧪 Built **Python + SQL A/B testing** framework; insights drove **$5M** contract & cut delivery times **1.5 days**.
-- ⚡ Revamped legacy report with **advanced SQL** (window functions, CTEs), optimizing stored procedure & saving **4 hrs/day**.
-- ☁️ Built **AWS** pipeline (**EC2, DynamoDB**) processing **50M+** daily IoT events; advanced delivery estimates **90%**.
-- 📦 Deployed **Amazon Quicksight** on **S3** for real-time inventory tracking, preventing **$3M** in lost revenue.
+---
+
+#### <strong>Data Analyst — Indiana University Bloomington</strong> <em>(Jan ’23 – Apr ’24)</em>
+<ul>
+  <li>📊 Elevated population health risk visibility by <strong>25%</strong> through executive-ready <strong>Power BI dashboards</strong> visualizing complex clinical and coding patterns.</li>
+  <li>🔐 Enforced enterprise-grade data governance across <strong>500K+ sensitive healthcare records</strong> using Azure SQL audits aligned with HIPAA & GDPR standards.</li>
+  <li>🧠 Eliminated root causes behind <strong>200+ recurring patient complaints</strong> by building multivariate regression models in Azure ML Studio to uncover hidden behavioral drivers.</li>
+</ul>
+
+---
+
+#### <strong>Business Intelligence Analyst — Tata Consultancy Services (TCS)</strong> <em>(Jun ’20 – Jul ’22)</em>
+<ul>
+  <li>📈 Boosted feature adoption by <strong>22%</strong> by leading A/B experimentation in Looker, optimizing promotion lift strategy and influencing product roadmap decisions.</li>
+  <li>💰 Uncovered <strong>$150K in incremental revenue opportunities</strong> by mining user behavior and demand trends using advanced SQL in Google BigQuery.</li>
+  <li>⚙️ Re-engineered manual KPI workflows into automated Excel VBA pipelines, cutting reporting cycles by <strong>3 days/month</strong> and improving operational accuracy.</li>
+</ul>
 
 ---
 
