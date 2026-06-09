@@ -100,38 +100,50 @@ Currently expanding into <strong>Agentic AI, RAG architectures, and production-g
 
 #### <strong>Data Analytics Engineer — SAP</strong> <em>(Nov ’24 – Present)</em>
 <ul>
-  <li>🚀 Transformed executive decision-making by engineering advanced <strong>SQL data models</strong> that reduced GTM pipeline analysis time from hours to <strong>&lt;10 minutes</strong> for leadership reviews.</li>
-  <li>📊 Designed and deployed <strong>18 production-grade Tableau analytics products</strong>, enabling global teams to self-serve insights and drive region-level revenue strategy.</li>
-  <li>📈 Increased quarterly revenue forecast accuracy by <strong>15%</strong> through deep <strong>SAS-driven anomaly detection & feature engineering</strong> on complex sales datasets.</li>
-  <li>🔄 Automated mission-critical transformations using <strong>dBT</strong>, delivering trusted, decision-ready analytics that influenced <strong>$50M+ in quarterly pipeline strategy</strong>.</li>
-  <li>☁️ Built scalable <strong>Python + Spark ETL pipelines</strong> processing <strong>400M+ records daily</strong>, orchestrated via Airflow into Databricks lakehouses with resilient 3-hour SLA refresh cycles.</li>
+  <li>🚀 Architected a <strong>PySpark-based ETL pipeline on Databricks</strong> that consolidated financial and sales data from <strong>5+ enterprise systems</strong> into a centralized lakehouse, reducing executive reporting lead time by <strong>40%</strong>.</li>
+
+  <li>📊 Improved analyst productivity by <strong>20%</strong> through advanced <strong>SQL development using CTEs, window functions, and multi-source data models</strong>, enabling faster identification of business performance drivers and reducing manual investigation effort.</li>
+
+  <li>📈 Increased regional revenue forecast accuracy by <strong>16%</strong> using <strong>SAS predictive modeling</strong>, correlation analysis, and multivariate time-series techniques to uncover leading demand indicators and support strategic planning.</li>
+
+  <li>🤖 Engineered a <strong>RAG-powered AI self-service analytics platform</strong> in Python that automated KPI query generation and insight extraction, reducing dependency on ad-hoc reporting by <strong>35%</strong> across <strong>500+ stakeholders</strong>.</li>
+
+  <li>📉 Delivered executive-facing <strong>Power BI dashboards and automated reporting suites</strong> tracking Pipeline Sales Velocity, Regional Quota Attainment, and KPI variance, accelerating decision-making speed by <strong>25%</strong>.</li>
 </ul>
 
 ---
 
 #### <strong>Data Engineer — DTCC</strong> <em>(May ’24 – Oct ’24)</em>
 <ul>
-  <li>⚡ Accelerated regulatory compliance reporting by <strong>60%</strong> by leading Oracle → Snowflake migration, automating ingestion of <strong>20TB+ financial transaction data</strong>.</li>
-  <li>📊 Strengthened enterprise financial planning by improving forecasting accuracy <strong>15%</strong> using <strong>SARIMAX & Prophet</strong> models deployed on AWS EC2.</li>
-  <li>🛡️ Prevented portfolio risk exposure and recovered <strong>$250K+ annually</strong> by deploying <strong>Isolation Forest anomaly detection</strong> on high-volume AWS S3 transaction logs.</li>
+  <li>⚡ Migrated legacy <strong>Oracle and SQL Server</strong> environments to <strong>AWS Redshift</strong> using AWS Glue, processing <strong>800M+ records daily</strong> and enabling real-time KPI visibility for senior leadership.</li>
+
+  <li>🔄 Built an <strong>Apache Airflow orchestration framework</strong> on AWS EC2 supporting <strong>45+ workflows</strong> and <strong>12,000+ daily task dependencies</strong>, reducing pipeline recovery time from <strong>4 hours to 15 minutes</strong>.</li>
+
+  <li>🛡️ Designed a <strong>data quality and validation framework</strong> using AWS Lambda and DynamoDB with <strong>50+ automated quality checks</strong>, proactively identifying <strong>200+ anomalies</strong> before reaching downstream reporting systems.</li>
 </ul>
 
 ---
 
 #### <strong>Data Analyst — Indiana University Bloomington</strong> <em>(Jan ’23 – Apr ’24)</em>
 <ul>
-  <li>📊 Elevated population health risk visibility by <strong>25%</strong> through executive-ready <strong>Power BI dashboards</strong> visualizing complex clinical and coding patterns.</li>
-  <li>🔐 Enforced enterprise-grade data governance across <strong>500K+ sensitive healthcare records</strong> using Azure SQL audits aligned with HIPAA & GDPR standards.</li>
-  <li>🧠 Eliminated root causes behind <strong>200+ recurring patient complaints</strong> by building multivariate regression models in Azure ML Studio to uncover hidden behavioral drivers.</li>
+  <li>📊 Applied data mining techniques on <strong>1M+ healthcare records</strong> stored in MongoDB to identify latent health correlations, improving high-risk patient cohort identification by <strong>25%</strong>.</li>
+
+  <li>📈 Performed statistical analysis using <strong>R, t-tests, and chi-squared testing</strong> across patient volumes and operational metrics, improving operational forecasting accuracy by <strong>17%</strong> and supporting staffing optimization initiatives.</li>
+
+  <li>📋 Developed real-time <strong>Tableau dashboards powered by SQL</strong> to monitor ER wait times and bed utilization, eliminating <strong>15 hours of manual reporting per week</strong> for hospital administrators.</li>
 </ul>
 
 ---
 
 #### <strong>Business Intelligence Analyst — Tata Consultancy Services (TCS)</strong> <em>(Jun ’20 – Jul ’22)</em>
 <ul>
-  <li>📈 Boosted feature adoption by <strong>22%</strong> by leading A/B experimentation in Looker, optimizing promotion lift strategy and influencing product roadmap decisions.</li>
-  <li>💰 Uncovered <strong>$150K in incremental revenue opportunities</strong> by mining user behavior and demand trends using advanced SQL in Google BigQuery.</li>
-  <li>⚙️ Re-engineered manual KPI workflows into automated Excel VBA pipelines, cutting reporting cycles by <strong>3 days/month</strong> and improving operational accuracy.</li>
+  <li>📦 Automated supply chain data reconciliation across <strong>5+ ERP and shipment systems</strong> using AWS Redshift, consolidating <strong>50K+ records</strong> and reducing manual processing effort by <strong>15 hours per week</strong>.</li>
+
+  <li>🧪 Designed and executed <strong>A/B experiments</strong> on route optimization initiatives, improving customer delivery efficiency by <strong>15%</strong> before global rollout.</li>
+
+  <li>📊 Built executive reporting solutions with <strong>AWS QuickSight</strong> to monitor Inventory Turnover and Order Fulfillment KPIs, accelerating operational decision-making by <strong>25%</strong>.</li>
+
+  <li>🤖 Developed <strong>AWS SageMaker forecasting models</strong> achieving <strong>90% prediction accuracy</strong>, enabling proactive procurement planning and reducing inventory overstock risk.</li>
 </ul>
 
 ---
